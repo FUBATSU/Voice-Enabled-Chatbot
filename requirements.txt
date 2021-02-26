@@ -1,0 +1,10 @@
+wikipedia
+SpeechRecognition
+pygame
+weather-api
+pyowm
+pyaudio
+pyttsx3
+pyttsx
+nltk
+numpy
